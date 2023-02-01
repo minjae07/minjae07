@@ -14,12 +14,13 @@
   📖 I like to learn **new things**.
 </div>
 
-<h2 align="center">  </h2>
-
 
 
 ## 🛠️ My Skills
-
+<details>
+<summary>My Skills 상세보기</summary>
+<div markdown="1">
+    
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
@@ -116,11 +117,15 @@
 </p>
 
 <br> 
-
+</div>
+</details>
+         
 ---
+
 
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 <div>
  
+
