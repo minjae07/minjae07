@@ -138,4 +138,4 @@
 </details>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae07)](https://github.com/minjae07/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae07)](https://github.com/minjae07/github-readme-statsshow_icons=true)
