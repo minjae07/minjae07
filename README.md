@@ -136,3 +136,6 @@
       		<img src="https://github.com/minjae07/minjae07/blob/main/Spring%20board.PNG?raw=true" alt="GitHub Stats" />
     	</a>
 </details>
+
+---
+![snake gif](https://github.com/minjae07/minjae07/blob/output/github-contribution-grid-snake.svg)
