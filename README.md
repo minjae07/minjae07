@@ -131,5 +131,8 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 <div>
- 
-
+  <p align="center">
+	<a href="https://github.com/minjae07/SpringBoard">
+      		<img src="https://github.com/minjae07/minjae07/blob/main/Spring%20board.PNG?raw=true" alt="GitHub Stats" />
+    	</a>
+</details>
