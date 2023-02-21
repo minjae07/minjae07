@@ -9,7 +9,7 @@
 
 
  👋 Hi, I’m @minjae07  
- :wrench: My major is **Mechanical Automotive** Engineering  
+ :wrench: My major is **Robotic systems** Engineering  
  :balloon: I’m currently learning **JavaScript**    
   📖 I like to learn **new things**.
 </div>
@@ -21,7 +21,7 @@
 <summary>My Skills 상세보기</summary>
 <div markdown="1">
     
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### Programming languages
 
 <p align="center"> 
   &emsp;
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -71,7 +71,7 @@
     
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### Software & Tools
  
 <p align="center">
   &emsp;
@@ -86,7 +86,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### IDEs
  
 <p align="center">
   &emsp;
@@ -97,7 +97,7 @@
     <a href="#"><img alt = "Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /></a>	
 </p>
 
- ### <picture> <img src = "https://gist.github.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width = 50px>  </picture> Database
+ ### Database
  
 <p align="center">
   &emsp;
@@ -110,7 +110,7 @@
      <a href="#"><img alt = "MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"" /></a>	
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### Operating Systems
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
@@ -123,19 +123,11 @@
 <br> 
 </div>
 </details>
-         
----
-
-
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/minjae07/SpringBoard">
-      		<img src="https://github.com/minjae07/minjae07/blob/main/Spring%20board.PNG?raw=true" alt="GitHub Stats" />
-    	</a>
-</details>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae07&show_icons=true&theme=dracula)
+<p align="center">
+<a href="https://github.com/minjae07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minjae07&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minjae07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
