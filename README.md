@@ -1,8 +1,3 @@
-### 
-<p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/124115372/215988178-88efdd86-51e0-4f19-90ec-3612181cc9c9.png">
-</p>
-
 ## 🌱 About Me
 <h3></h3>
 <div align="center">
